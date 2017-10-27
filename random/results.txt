@@ -1,0 +1,25 @@
+computer chose rock
+player choserock
+player drewcomputer chose rock
+player chose scissors
+player lostcomputer chose rock
+player chose scissors
+player lost
+computer chose paper
+player chose paper
+player drew
+computer chose scissors
+player chose rock
+player won
+computer chose scissors
+player chose paper
+player lost
+computer chose paper
+player chose scissors
+player won
+computer chose rock
+player chose rock
+player drew
+computer chose scissors
+player chose rock
+player won
