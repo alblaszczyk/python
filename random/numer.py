@@ -17,7 +17,7 @@ def translate_my_number(numbers):
             digits = digits + str(item)
         else:
             for key in keyboard_dict:
-                if item == key in keyboard_dict:
+                if item.upper() == key in keyboard_dict:
                     digits = digits + str(keyboard_dict[key])
     return digits
 print(translate_my_number(sys.argv[1]))
